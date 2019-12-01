@@ -3,7 +3,7 @@ A sample application written with flutter to allow search and playback of Youtub
 This application was written as part of the Flutter development course available in [Udemy's platform](https://www.udemy.com/course/curso-completo-flutter-app-android-ios).
 
 # Running
-In order to test this application, insert your Youtube's API key in `[youtube_app/lib/api.dart](youtube_app/lib/api.dart)` file.
+In order to test this application, insert your Youtube's API key in [`youtube_app/lib/api.dart`](youtube_app/lib/api.dart) file.
 
 # Screens
 ![Home screen](images/home.png)
