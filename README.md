@@ -6,8 +6,8 @@ This application was written as part of the Flutter development course available
 In order to test this application, insert your Youtube's API key in `[youtube_app/lib/api.dart](youtube_app/lib/api.dart)` file.
 
 # Screens
-![Home screen](images/home.png | width=150)
-![Favorites screen](images/favorites.png | width=150)
+![Home screen](images/home.png)
+![Favorites screen](images/favorites.png)
 
 # Concepts
 This application applies the concepts of BLoC in Flutter [Ref 1](http://flutterdevs.com/blog/bloc-pattern-in-flutter-part-1/) [Ref 2](https://www.raywenderlich.com/4074597-getting-started-with-the-bloc-pattern).
